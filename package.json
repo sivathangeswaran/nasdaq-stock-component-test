@@ -10,9 +10,9 @@
   },
   "dependencies": {
     "@ngtools/webpack": "1.5.0",
-    "@types/angular": "1.6.6",
+    "@types/angular": "1.8.4",
     "@types/webpack-env": "1.13.0",
-    "angular": "1.6.8",
+    "angular": "1.8.3",
     "angular-templatecache-loader": "0.2.0",
     "bootstrap": "^3.3.7",
     "clean-webpack-plugin": "^0.1.17",
